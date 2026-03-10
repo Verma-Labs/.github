@@ -1,3 +1,4 @@
+![Galaxy Explorer](https://github.com/Verma-Labs/galaxy-explorer/blob/main/screenshots/galaxy.png)
 # Verma Labs (@atulbuilds)
 
 Experimental software lab exploring:
